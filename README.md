@@ -20,6 +20,10 @@
     <a href="https://github.com/mq-gabs/simple-cache-server">Simple Cache Server</a>
     <p>I decided to dive deep into explore how cache servers work by building one from scratch. The server and its client are both written in Golang, with plans to add support for clients in other languages in the future.</p>
   </li>
+  <li>
+    <a href="https://github.com/mq-gabs/cash-flow">Cash Flow</a>
+    <p>This app helps manage cash flow by allowing users to register their services and associated costs, employee details and payments, service payments, and other expenses. It features a dashboard where users can view financial statistics for the day, week, year, or a custom date range.</p>
+  </li>
 </ul>
 
 
@@ -80,7 +84,8 @@
           
   <br>
   
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 </div>
