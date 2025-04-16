@@ -1,6 +1,7 @@
 <div>
   <h1>
-    :wave: Hello, I'm Gabriel. I'm a Full Stack Software Engineer. Check my <a href="https://gabsdev.netligy.app" target="_blank">Website</a>
+    :wave: Hello, I'm Gabriel. I'm a Full Stack Software Engineer. <br>
+    🚀 Check my <a href="https://gabsdev.netligy.app" target="_blank">Website</a>
   </h1>
 </div>
 
@@ -11,19 +12,19 @@
 </div
 
 <div>
-  <h2>Some of my projects</h2>
+  <h2> 🛠️ Some of my projects</h2>
 </div>
 
 <ul>
   <li>
     <a href="https://github.com/mq-gabs/simple-cache-server">Simple Cache Server</a>
-    <p>This project is part of my exploration into how cache servers work. I decided to dive deep by building one from scratch. The server and its client are both written in Golang, with plans to add support for clients in other languages in the future.</p>
+    <p>I decided to dive deep into explore how cache servers work by building one from scratch. The server and its client are both written in Golang, with plans to add support for clients in other languages in the future.</p>
   </li>
 </ul>
 
 
 <div>
-  <h2>Tech Skills</h2>
+  <h2> 👨‍💻 Tech Skills</h2>
 </div>
 
 <div>
@@ -86,7 +87,7 @@
  
 
  <div>
-   <h2>Contact</h2>
+   <h2> 📧 Contact</h2>
  </div>
   
  <div> 
