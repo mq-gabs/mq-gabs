@@ -6,8 +6,7 @@
 </div>
 
 <div>
-  <a href="https://github.com/eliforte"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mq-gabs&show_icons=true&theme=radical&include_all_commits=true&count_private=truew"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mq-gabs&show_icons=true&theme=radical&include_all_commits=true&count_private=truew"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mq-gabs&layout=compact&langs_count=7&theme=radical"/>
 </div
 
