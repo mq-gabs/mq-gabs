@@ -1,13 +1,32 @@
-### :wave: Hello, I'm Gabriel! I'm a Full Stack Engineer focused on Backend. Check my <a href="https://gabsdev.netligy.app" target="_blank">Website</a>
-
+<div>
+  <h1>
+    :wave: Hello, I'm Gabriel. I'm a Full Stack Software Engineer. Check my <a href="https://gabsdev.netligy.app" target="_blank">Website</a>
+  </h1>
+</div>
 
 <div>
   <a href="https://github.com/eliforte"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mq-gabs&show_icons=true&theme=radical&include_all_commits=true&count_private=truew"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mq-gabs&layout=compact&langs_count=7&theme=radical"/>
 </div
-    
-<div style="background-color: #FFFFFF; padding: 8px;">
+
+<div>
+  <h2>Some of my projects</h2>
+</div>
+
+<ul>
+  <li>
+    <a href="https://github.com/mq-gabs/simple-cache-server">Simple Cache Server</a>
+    <p>This project is part of my exploration into how cache servers work. I decided to dive deep by building one from scratch. The server and its client are both written in Golang, with plans to add support for clients in other languages in the future.</p>
+  </li>
+</ul>
+
+
+<div>
+  <h2>Tech Skills</h2>
+</div>
+
+<div>
   <div style="display: inline_block"><br>
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -21,7 +40,7 @@
   <br>
   
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
           
@@ -63,11 +82,12 @@
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-  
-    
 </div>
  
- ##
+
+ <div>
+   <h2>Contact</h2>
+ </div>
   
  <div> 
   <a href="mailto:marques.gabriel.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
