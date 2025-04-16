@@ -1,7 +1,7 @@
 <div>
   <h1>
     :wave: Hello, I'm Gabriel. I'm a Full Stack Software Engineer. <br>
-    🚀 Check my <a href="https://gabsdev.netligy.app" target="_blank">Website</a>
+    🚀 Check my <a href="https://gabsdev.netlify.app" target="_blank">Website</a>
   </h1>
 </div>
 
