@@ -9,91 +9,45 @@
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mq-gabs&layout=compact&langs_count=7&theme=radical"/> -->
 </div
 
-<div>
-  <h2> 🛠️ Some of my projects</h2>
-</div>
+---
 
-<ul>
-  <li>
-    <a href="https://github.com/mq-gabs/simple-cache-server">Simple Cache Server</a>
-    <p>I decided to dive deep into explore how cache servers work by building one from scratch. The server and its client are both written in Golang, with plans to add support for clients in other languages in the future.</p>
-  </li>
-  <li>
-    <a href="https://github.com/mq-gabs/cash-flow">Cash Flow</a>
-    <p>This app helps manage cash flow by allowing users to register their services and associated costs, employee details and payments, service payments, and other expenses. It features a dashboard where users can view financial statistics for the day, week, year, or a custom date range.</p>
-  </li>
-</ul>
+## Apps
 
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Pageclock**](https://github.com/mq-gabs/pageclock) | Reading tracker: log books and reading sessions, then see pages, reading time, speed and streaks | Next.js · Express · Drizzle · SQLite · Nx |
+| [**GoPocket**](https://github.com/mq-gabs/gopocket) | Personal finance API with a layered, modular architecture | Go · Gin · GORM · SQLite |
+| [**Cash Flow**](https://github.com/mq-gabs/cash-flow) | Cash-flow manager built for a small business: services, employees, expenses and a dashboard, shipped as one executable | Go · Gin · React · SQLite |
 
-<div>
-  <h2> 👨‍💻 Tech Skills</h2>
-</div>
+## Games
 
-<div>
-  <div style="display: inline_block"><br>
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**LOROTA**](https://github.com/mq-gabs/lorota) | Real-time multiplayer bluffing trivia for 2–4 players, in Brazilian Portuguese | React · Socket.IO · Express · Web Audio |
+| [**Slockle**](https://github.com/mq-gabs/slockle) | Daily browser puzzle: crack four hidden phone-style unlock patterns with colour feedback and hints | React · Vite · Express · Vitest |
+| [**Rush Dig**](https://github.com/mq-gabs/mining) | Mobile-first roguelike mining game, with procedural music and a bot-driven balance simulator | TypeScript · Canvas · Web Audio |
 
-  <br>
-    
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+## Systems and libraries
 
-  <br>
-  
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-          
-  <br>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**vld**](https://github.com/mq-gabs/vld) | Generic Go library for validating and transforming values with plain `func(T) error` functions | Go |
+| [**Simple Cache Server**](https://github.com/mq-gabs/simple-cache-server) | In-memory cache server over TCP with a custom byte protocol and a Go client | Go · TCP |
+| [**Lite Queue Server**](https://github.com/mq-gabs/lite-queue-server) | Lightweight queue server written from scratch | Go |
+| [**tchat**](https://github.com/mq-gabs/tchat) | Terminal chat app with its own client REPL and server | Go · CLI |
 
-  <img height="50px" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-          
-          
-<!--   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> -->
-<!--   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> -->
+---
 
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+## Tech
 
-  <br>
-  
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-          
+**Languages** · TypeScript, JavaScript, Go, Python, HTML, CSS<br>
+**Backend** · Node.js, NestJS, Express, Gin, FastAPI, TypeORM, Prisma, GORM<br>
+**Frontend** · React, Next.js, Redux, Angular, RxJS, Tailwind CSS<br>
+**Data** · PostgreSQL, MySQL, SQLite, MongoDB, DynamoDB, Redis, RabbitMQ<br>
+**Infrastructure** · AWS, Docker, Kubernetes, GitHub Actions, Linux
 
-  <br>
-          
-<!--   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" /> -->
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+## Contact
 
-  <br>
-  
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-          
-          
-  <br>
-  
-  
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+[![Email](https://img.shields.io/badge/Email-marques.gabriel.dev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marques.gabriel.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Marques-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-marques-b09979214)
 
-</div>
- 
-
- <div>
-   <h2> 📧 Contact</h2>
- </div>
-  
- <div> 
-  <a href="mailto:marques.gabriel.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-marques-b09979214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
